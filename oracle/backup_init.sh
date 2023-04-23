@@ -1,0 +1,5 @@
+connect target /
+run
+{
+CONFIGURE RETENTION POLICY TO RECOVERY WINDOW OF 30 DAYS;
+}
